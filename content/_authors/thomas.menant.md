@@ -1,20 +1,20 @@
 ---
 fullname: Thomas Menant
-role: Claquettiste 🕺
 domaine: Autre
+role: Claquettiste 🕺
 missions:
-  - start: 2014-01-01
-    end: 2019-12-31
-    status: independent
-    employer: Codeurs en Liberté
+  - status: admin
+    employer: DINUM
+    start: 2013-04-01
+    end: 2018-09-02
   - start: 2020-01-01
-    end: 2020-12-31
-    status: independent
+    end: 2022-12-31
+    status: service
     employer: NUMA
 previously:
-    - preuve-de-covoiturage
-    - api-particulier
-  
+  - preuve-de-covoiturage
+  - api-particulier
+competences:
+  - Coaching
 ---
-
-Le droit c'est tordu.
+Le droit, c'est tordu.
